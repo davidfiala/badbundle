@@ -1,0 +1,11 @@
+{
+  "name": "badversions",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@grpc/grpc-js": "1.9.12",
+    "typescript": "5.3.2"
+  }
+}
